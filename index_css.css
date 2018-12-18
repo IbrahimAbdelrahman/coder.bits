@@ -1,0 +1,45 @@
+.secttion_title{
+	font-size: 2.5em;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #464646;
+}
+#About p {
+	font-size: 16px;
+	color: #777777;
+}
+.profile_title {
+	font-weight: 700;
+    text-transform: uppercase;
+    color: #464646;
+}
+#About h4 {
+	font-size: 18px;
+	font-weight: 500;
+    line-height: 1.1;
+    color: #464646;
+
+}
+section .social_icons{
+	padding-top: 35px;
+    border-top: 1px solid #fafafa;
+}
+section .social_icons ul {
+	list-style: none;
+	margin-left: -25px;
+}
+section .social_icons li {
+	display: inline-block;
+}
+section .social_icons a {
+    display: block;
+ 	width: 40px;
+    height: 40px;
+    line-height: 42px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    font-size: 300;
+    text-align: center;
+    border: 1px solid #999999;
+    color: #777777;
+}
